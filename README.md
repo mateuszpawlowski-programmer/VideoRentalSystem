@@ -12,3 +12,15 @@ System posiada i umożliwia:<br>
 <br>
 W obecnej wersji system działa na obiektach danych przykładowych bez możliwości zapisu odczytu z dysku.<br>
 W przyszłości zostanie dodana możliwość utrwalania danych do plików na dysk lub baz danych MySQL,Derby z wykorzystaniem JDBC.<br>
+<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_1.png?raw=true)
+<br><br>
+![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_2.png?raw=true)
+<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_3.png?raw=true)
+<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_4.png?raw=true)
+<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_5.png?raw=true)
+<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_6.png?raw=true)
