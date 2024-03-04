@@ -1,6 +1,8 @@
+VideoRentalSystem (Java). (2024)<br><br>
 Aplikacja biznesowa w Javie. System informatyczny Wypożyczalnia filmów dvd,blue-ray,vhs.<br>
 System zaprogramowany w Javie jako aplikacja biznesowa działająca w środowisku Windows.<br>
 <br>
+
 System posiada i umożliwia:<br>
 - Bazę danych klientów - Rejestrację, edycję oraz wyszukiwanie klientów wypożyczalni wraz z ich podstawowymi danymi osobowymi.<br>
 - Bazę danych wypożyczeń - Rejestrację wszystkich wypożyczeń klientów wraz z informacjami o terminach wypożyczeń i zwrotu, automatyczne naliczanie opłat oraz status wypożyczenia.<br>
@@ -13,14 +15,16 @@ System posiada i umożliwia:<br>
 W obecnej wersji system działa na obiektach danych przykładowych bez możliwości zapisu odczytu z dysku.<br>
 W przyszłości zostanie dodana możliwość utrwalania danych do plików na dysk lub baz danych MySQL,Derby z wykorzystaniem JDBC.<br>
 <br>
-![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_1.png?raw=true)
-<br><br>
-![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_2.png?raw=true)
-<br>
-![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_3.png?raw=true)
-<br>
-![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_4.png?raw=true)
-<br>
-![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_5.png?raw=true)
-<br>
-![alt text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_6.png?raw=true)
+
+![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_1.png?raw=true)
+<br>Przeglądanie listy klientów.<br><br>
+![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_2.png?raw=true)
+<br>Dodawanie oraz edycja klientów.<br><br>
+![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_3.png?raw=true)
+<br>Historia wypożyczeń.<br><br>
+![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_4.png?raw=true)
+<br>Baza filmów z możliwością wyszukiwania,  wypożyczania i sortowania filmów.<br><br>
+![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_5.png?raw=true)
+<br>Edycja filmów.<br><br>
+![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_6.png?raw=true)
+<br>Baza aktorów i reżyserów.<br><br>
