@@ -11,9 +11,9 @@ System posiada i umożliwia:<br>
 - Wyszukiwanie konkretnego klienta, filmu, aktora.<br>
 - Sortowanie tabel według kolumn. np. alfabetycznie nazwa klienta, tytuł filmu lub numerycznie rok produkcji filmu, cena wypożyczenia.<br>
 - Podczas jednej transakcji wypożyczania dla jednego klienta można wypożyczyć wiele filmów. Cena wypożyczania jest automatycznie naliczana.<br>
+- Zapis aktualnego stanu systemu. Bazy danych klientów, wypożyczeń, filmów oraz aktorów można zapisać za pomocą przycisku Save.<br>
 <br>
-W obecnej wersji system działa na obiektach danych przykładowych bez możliwości zapisu odczytu z dysku.<br>
-W przyszłości zostanie dodana możliwość utrwalania danych do plików na dysk lub baz danych MySQL,Derby z wykorzystaniem JDBC.<br>
+W obecnej wersji system działa na obiektach danych zapisywanych i odczytywanych z dysku za pomocą mechanizmu Serializacji Javy.<br>
 <br>
 
 ![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_1.png?raw=true)
